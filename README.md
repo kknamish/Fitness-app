@@ -1,4 +1,4 @@
-Website - fitness-app-by-kknamish.netlify.app
+Website - [fitness-app-by-kknamish.netlify.app](https://fitness-app-by-kknamish.netlify.app/)
 
 # Getting Started with Create React App
 
